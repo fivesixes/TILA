@@ -1,5 +1,5 @@
 $interpreter = "C:\Python311\python.exe"
-$scriptPath = "app.py"
+$scriptPath = "main.py"
 
 $command = "$interpreter $scriptPath"
 
